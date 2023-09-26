@@ -27,9 +27,9 @@ C\# system for managing, storing and reporting students’ exam results in a giv
 
 ### Technologies
 
-* MS SQL Server.
-* Dapper.
-* MahApps.Metro for UI design.
-* Office.Core.
-* Squirrel for deploying the app.
-* GitHub for version control.
+* MS SQL Server
+* Dapper
+* MahApps.Metro for UI design
+* Office.Core
+* Squirrel for deploying the app
+* GitHub for version control
